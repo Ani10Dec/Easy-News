@@ -45,7 +45,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Loading Please wait..."
+                android:text="@string/loading_please_wait"
                 android:textColor="@color/black"
                 android:textSize="16sp" />
         </LinearLayout>

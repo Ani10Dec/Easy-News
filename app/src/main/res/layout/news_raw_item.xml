@@ -38,7 +38,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textColor="#504B4B"
-                        android:text="Loading Image..." />
+                        android:text="@string/loading_image" />
 
                 </LinearLayout>
 
